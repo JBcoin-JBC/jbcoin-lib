@@ -1285,9 +1285,9 @@ decimal.js@^5.0.8:
   integrity sha1-tIw/t9c6LU1JQOCzjxzSHbWzZ84=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@~0.4.0:
   version "0.4.2"
@@ -1506,7 +1506,7 @@ ejs@^2.3.4:
 
 elliptic@^5.1.0:
   version "5.2.1"
-  resolved "http://registry.npmjs.org/elliptic/-/elliptic-5.2.1.tgz#fa294b6563c6ddbc9ba3dc8594687ae840858f10"
+  resolved "https://registry.npmjs.org/elliptic/-/elliptic-5.2.1.tgz#fa294b6563c6ddbc9ba3dc8594687ae840858f10"
   integrity sha1-+ilLZWPG3bybo9yFlGh66ECFjxA=
   dependencies:
     bn.js "^3.1.1"
